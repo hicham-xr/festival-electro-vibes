@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0d0d1a;
+  color: #ffffff;
+  text-align: center;
+}
+header {
+  padding: 40px 20px;
+  background: #1a1a3a;
+}
+h1 { color: #00ffd5; }
+#countdown { font-size: 2rem; color: #ff2e97; }
